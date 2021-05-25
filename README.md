@@ -22,7 +22,7 @@
 const Israel_Garcia = {
   pronouns: "the",
   code: [Python3, Rust, Perl, Ruby, Java, C, Julia, Go, Java Script, Others],
-  tools: [Linux, Debian, Arch Linux,CentOs, Docker, Node, Tools Hacking, Others],
+  tools: [Linux, Debian, Arch Linux, CentOs, Docker, Node, Tools Hacking, Others],
   others_tools: [Tools OSINT, Tools CIBERINT, Tools IMINT, Tools GEOINT, Others],
   works: ["Business", "Startup", "Freelancer", "Others"],
  
