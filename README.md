@@ -1,7 +1,7 @@
 ### Hi, I'm Israel García!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 <!-- BQPTheory-->
   <samp>
-                「 From México 」
+                「 From México. 」
                 <br>
                 「 Programmer, Cyber Security Analyst, Cyber Threat Investigator,Cybersecurity Researche.</b> 」
                 <br>
