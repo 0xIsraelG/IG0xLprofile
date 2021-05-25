@@ -19,7 +19,7 @@
 </p>   
   
 ```javascript
-const IsraelGarcia = {
+const Israel_Garcia = {
   pronouns: "the",
   code: [Python3, Rust, Perl, Ruby, Java, C, Julia, Go, Java Script, Others],
   tools: [Linux, Debian, Arch Linux,CentOs, Docker, Node, Tools Hacking, Others],
