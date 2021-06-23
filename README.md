@@ -3,7 +3,7 @@
   <samp>
                 「 From México. 」
                 <br>
-                「 Programmer, Cyber Security Analyst, Cyber Threat Investigator,Cybersecurity Researche.</b> 」
+                「 Programmer, Cyber Security Analyst, Cyber Threat Investigator, Cybersecurity Researche.</b> 」
                 <br>
                 <br>
   </samp>
