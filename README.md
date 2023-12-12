@@ -1,5 +1,5 @@
 ### Hi, I'm Israel García!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-<!-- BQPTheory-->
+<!-- IG0xL -->
   <samp>
                 「 From México. 」
                 <br>
@@ -8,8 +8,8 @@
                 <br>
   </samp>
 <br>
-<p><a href="https://twitter.com/BQPtheory"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://www.linkedin.com/in/0xisraelgarcia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
+<p><a href="https://twitter.com/IG0xL_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://www.linkedin.com/in/israelgdev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
   
 <hr>
 <p align="center">
